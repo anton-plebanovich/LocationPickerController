@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "LocationPickerController"
+  s.name         = "LocationPickerViewController"
   s.version      = "2.2.0"
   s.summary      = "Simple location picker with a built in maps."
 
